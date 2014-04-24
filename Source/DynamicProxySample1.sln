@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProxySample1", "DynamicProxySample1\DynamicProxySample1.csproj", "{1348CFC5-1DC5-4126-98F1-C7F3AF106C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProxySample1.Domain", "DynamicProxySample1.Domain\DynamicProxySample1.Domain.csproj", "{251CCE4A-48A2-4D28-8ADD-E88D16161D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1348CFC5-1DC5-4126-98F1-C7F3AF106C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1348CFC5-1DC5-4126-98F1-C7F3AF106C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1348CFC5-1DC5-4126-98F1-C7F3AF106C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1348CFC5-1DC5-4126-98F1-C7F3AF106C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251CCE4A-48A2-4D28-8ADD-E88D16161D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251CCE4A-48A2-4D28-8ADD-E88D16161D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251CCE4A-48A2-4D28-8ADD-E88D16161D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251CCE4A-48A2-4D28-8ADD-E88D16161D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
